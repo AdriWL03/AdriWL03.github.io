@@ -164,6 +164,15 @@ nav.scroll {
   	background-size: cover;
 }
 
+.bg-wrapper2{
+	background-image: url("../images/par2.jpg");
+	height: 300%; 
+  	background-attachment: fixed;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
 .contentpad{
     padding-top: 100px;
 }
@@ -457,6 +466,11 @@ footer{
 		background: none;
 		height: auto;
 	}
+	
+	.bg-wrapper2{
+		background: none;
+		height: auto;
+	}
 
     footer{
         margin-top: 50px;
@@ -477,6 +491,11 @@ footer{
     }
 	
 	.bg-wrapper{
+		background: none;
+		height: auto;
+	}
+	
+	.bg-wrapper2{
 		background: none;
 		height: auto;
 	}
@@ -548,6 +567,11 @@ footer{
 		background: none;
 		height: auto;
 	}
+	
+	.bg-wrapper2{
+		background: none;
+		height: auto;
+	}
 
     footer{
         margin-top: 50px;
@@ -581,6 +605,11 @@ footer{
     }
 	
 	.bg-wrapper{
+		background: none;
+		height: auto;
+	}
+	
+	.bg-wrapper2{
 		background: none;
 		height: auto;
 	}
