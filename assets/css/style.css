@@ -156,9 +156,13 @@ nav.scroll {
 }
 
 .bg-wrapper{
-    /*background-image: url("../images/bg.jpg");
-    opacity: 0.2;*/
+    
 	background-image: url("../images/par1.jpg");
+	height: 100%; 
+  	background-attachment: fixed;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
 }
 
 .contentpad{
