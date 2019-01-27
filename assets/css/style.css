@@ -630,7 +630,7 @@ footer{
 }
 
 .contact-button{
-    background: black;
+    background: crimson;
     color:white;
     font-weight: bold;
     padding: 25px 50px;
@@ -639,7 +639,7 @@ footer{
 }
 
 .contact-button:hover{
-    background: rgb(70, 70, 70);
+    background: darkred;
 }
 
 .contact-window{
@@ -957,6 +957,10 @@ footer{
 .glider-next, .glider-prev{
     top: 40%;
     z-index: 1;
+}
+
+.glider-dot.active{
+	background: crimson;
 }
 
 @media (max-width: 575px){
