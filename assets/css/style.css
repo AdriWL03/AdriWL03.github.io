@@ -785,7 +785,7 @@ footer{
 
 /******* portfolio.html / START ********/
 .portfolio-container{
-    background: white;
+    /*background: white;*/
     color: black;
     padding: 150px 50px 50px 50px;
     /*padding-top: 150px;
