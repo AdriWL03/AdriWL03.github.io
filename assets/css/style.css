@@ -452,6 +452,10 @@ footer{
     .pad-bot-135{
         padding-bottom: 35px;
     }
+	
+	.bg-wrapper{
+		background: none;
+	}
 
     footer{
         margin-top: 50px;
@@ -470,6 +474,10 @@ footer{
     .nav-list{
         display: none;
     }
+	
+	.bg-wrapper{
+		background: none;
+	}
 }
 
 @media (min-width: 768px) and (max-width: 991px){
@@ -533,6 +541,10 @@ footer{
     .pad-bot-135{
         padding-bottom: 35px;
     }
+	
+	.bg-wrapper{
+		background: none;
+	}
 
     footer{
         margin-top: 50px;
@@ -564,6 +576,10 @@ footer{
     .pad-bot-135{
         padding-bottom: 110px;
     }
+	
+	.bg-wrapper{
+		background: none;
+	}
 }
 
 @media (min-width: 1200px){
